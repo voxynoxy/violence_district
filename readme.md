@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./thumbnail.jpg" alt="RYC HUB Avatar" width="220" style="border-radius: 50%; box-shadow: 0 0 25px #00bfff; border: 3px solid #00d2ff;" />
+<img src="./erdevaprofile.png" alt="ERDEVA HUB" width="220" style="border-radius: 50%; box-shadow: 0 0 25px #00bfff; border: 3px solid #00d2ff;" />
 
-# ERDEVA | VIOLENCE DISTRICT 
+# ERDEVA HUB | VIOLENCE DISTRICT 
 
 [![Status](https://img.shields.io/badge/Status-Operational-brightgreen?style=for-the-badge&logo=roblox)]()
 [![Game](https://img.shields.io/badge/Game-Violence%20District-blueviolet?style=for-the-badge)]()
@@ -12,58 +12,54 @@
 
 </div>
 
-## 📖 Overview
-**RYC HUB (Violence District Edition)** adalah script suite canggih untuk game **Violence District** di Roblox. Dilengkapi dengan sistem bypass **ERDEVA**, modul ESP presisi tinggi, teleports, noclip glide, dan otomasi perbaikan generator.
-
----
-
 ## 🚀 Script Loader
 
-Jalankan script loader berikut langsung di executor Anda:
+Execute the official client loader directly in your executor:
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/voxynoxy/violence_district/main/loader.lua"))()
 ```
 
+---
 
-## ✨ Fitur Unggulan
+## ✨ Key Features
 
 ### 🛡️ ERDEVA Bypass System
-- **Splash Screen 2.0s**: Animasi loading splash screen elegan dengan logo ERDEVA & progress indicator.
-- **Environment Protection**: Mempersiapkan executor dan runtime tanpa memicu deteksi game.
+- **2.0s Splash Screen**: Smooth visual splash screen featuring the official ERDEVA avatar and dynamic progress status.
+- **Environment Preparation**: Pre-initializes executor hooks and runtime without triggering in-game detection routines.
 
 ### 👁️ High-Accuracy ESP (Wallhack)
-- **Generator ESP**: Mendeteksi letak mesin generator asli (akurat menyaring foliage/dekorasi map) dengan info jarak realtime.
-- **Exit Gates ESP**: Menandai pintu keluar (Exit Doors & Lever Gates) secara otomatis saat match berlangsung.
-- **Killer ESP**: Deteksi akurat Killer vs Survivor (mencegah salah tag pemain biasa sebagai Killer).
+- **Generator ESP**
+- **Exit Gates ESP**
+- **Killer ESP**
 
-### ⚡ Teleportasi & Movement
-- **Nearest Generator Teleport**: Teleportasi instan langsung ke generator terdekat (posisi tepat di depan panel mesin).
-- **Exit Gate Teleport**: Berpindah cepat ke pintu pelarian.
-- **Ghost Noclip Glide**: Meluncur mulus menembus dinding dan obstacle tanpa rubberband / visual ketarik.
+### ⚡ Teleportation & Movement
+- **Nearest Generator Teleport**
+- **Exit Gate Teleport**
+- **No Clip & Fly**
+- **ETC**
 
 ### ⚙️ Automation & Utility
-- **Auto Repair Generator**: Opsi perbaikan otomatis saat fitur diaktifkan.
-- **Auto Skillcheck**: Menghindari kegagalan skillcheck untuk efisiensi maksimal.
-- **Clean F9 Console**: Tanpa spam print dan bersih dari error log di console.
+- **Auto Repair Generator**: Automated generator fixing when enabled.
+- **Auto Skillcheck**: Automatically handles skillchecks for maximum repair efficiency
 
 ---
 
-## 📱 Kompatibilitas Executor
+## 📱 Executor Compatibility
 
-| Platform | Executor yang Didukung |
+| Platform | Supported Executors |
 | :--- | :--- |
-| **Android / Mobile** | Delta, Codex, Hydrogen, Arceus X, Fluxus Mobile |
+| **Android / Mobile** | Delta, Hydrogen, Arceus X, Fluxus Mobile |
 | **Windows / PC** | Solara, Wave, Synapse Z, Velocity |
 
 ---
 
-## 💬 Komunitas & Bantuan
-Bergabunglah dengan Discord resmi untuk update script terbaru, pengumuman key, dan diskusi:
+## 💬 Community & Support
+Join our official Discord community for latest script releases, key updates, and support:
 - **Discord Community**: [https://discord.gg/fTv3aKA9Ed](https://discord.gg/fTv3aKA9Ed)
 
 ---
 
 <div align="center">
-  <sub>Developed with ❤️ by RYC HUB & ERDEVA Team</sub>
+  <sub>Developed with ❤️ by ERDEVA Team</sub>
 </div>
