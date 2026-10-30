@@ -2,7 +2,7 @@
 
 <img src="./thumbnail.jpg" alt="RYC HUB Avatar" width="220" style="border-radius: 50%; box-shadow: 0 0 25px #00bfff; border: 3px solid #00d2ff;" />
 
-# ERDEVA | VIOLENCE DISTRICT ### Ultimate Performance & Automated Features
+# ERDEVA | VIOLENCE DISTRICT 
 
 [![Status](https://img.shields.io/badge/Status-Operational-brightgreen?style=for-the-badge&logo=roblox)]()
 [![Game](https://img.shields.io/badge/Game-Violence%20District-blueviolet?style=for-the-badge)]()
@@ -22,12 +22,9 @@
 Jalankan script loader berikut langsung di executor Anda:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/grava8593-hub/YOUR_REPO/main/loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/voxynoxy/violence_district/main/loader.lua"))()
 ```
 
-> **Catatan:** Ganti `YOUR_REPO` dengan nama repository GitHub tempat Anda mengunggah `loader.lua`.
-
----
 
 ## ✨ Fitur Unggulan
 
