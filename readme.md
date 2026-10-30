@@ -24,10 +24,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/voxynoxy/violence_dis
 
 ## ✨ Key Features
 
-### 🛡️ ERDEVA Bypass System
-- **2.0s Splash Screen**: Smooth visual splash screen featuring the official ERDEVA avatar and dynamic progress status.
-- **Environment Preparation**: Pre-initializes executor hooks and runtime without triggering in-game detection routines.
-
 ### 👁️ High-Accuracy ESP (Wallhack)
 - **Generator ESP**
 - **Exit Gates ESP**
