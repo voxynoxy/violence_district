@@ -22,7 +22,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/voxynoxy/violence_dis
 
 ---
 
-## ✨ Key Features
+## ✨ Features
 
 ### 👁️ High-Accuracy ESP (Wallhack)
 - **Generator ESP**
